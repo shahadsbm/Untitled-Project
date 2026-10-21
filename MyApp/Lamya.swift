@@ -3,7 +3,7 @@ import Playgrounds
 
 struct Lamya: View {
     var body: some View {
-        Text("Hello, Lamya!")
+        Text("Hello, Lamya22!")
             .padding()
     }
 }
